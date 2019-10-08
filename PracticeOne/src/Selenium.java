@@ -1,5 +1,10 @@
 
 public class Selenium {
+	public void add()
+	{
+		int x,y,d;
+		d=x+y;
+	}
 
 	public void add()
 	{
