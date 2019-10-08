@@ -2,8 +2,8 @@
 public class Selenium {
 	public void add()
 	{
-		int a,b,d;
-		d=a+b;
+		int x,y,d;
+		d=x+y;
 	}
 
 	public static void main(String[] args) {
